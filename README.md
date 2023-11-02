@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baqarzafarfarooqui
-- 👀 I’m interested in react , reat native
+- 👀 I’m interested in react , react native
 - 🌱 I’m currently learning ... advance concept of programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
